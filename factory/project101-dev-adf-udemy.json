@@ -1,0 +1,9 @@
+{
+	"name": "project101-dev-adf-udemy",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4c1ba8cb-71c7-4f55-b850-666fa89a2bb2",
+		"tenantId": "f5509f0a-f999-4b48-a4c3-73a4a14fc224"
+	}
+}
